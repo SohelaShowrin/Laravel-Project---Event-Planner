@@ -1,5 +1,5 @@
 # Laravel-Project---Event-Planner
-                                     Overview of the System
+# 🛑Overview of the System
  The Event Planner project is designed to help people and organizations manage their
  events more effectively. It uses Laravel 10 for the backend, which is a strong and secure
  framework, and Bootstrap 4 for the frontend, which makes the website look good and
@@ -18,7 +18,7 @@ cation. The system will connect with other tools, like email services, to make s
  match their event’s requirements. This flexibility makes the platform suitable for a wide
  range of events, from small gatherings to large functions.
 
-                                    Objectives
+# ✅Objectives
  The objectives of the Event Planner project are as follows:
  1. To develop an integrated event management system that allows users to plan, or
 ganize and execute events efficiently.
@@ -32,11 +32,11 @@ age different user roles.
  successful booking.
  6. To enable event organizers to upload media, such as images.
 
-                          Mailing System (Using Mailtrap)
+# 🏷Mailing System (Using Mailtrap)
 The project includes a fully functional mailing system for sending notifications and confirmations. For development and testing purposes, Mailtrap was integrated as the SMTP email service.
 <img width="1209" height="734" alt="mailNotification" src="https://github.com/user-attachments/assets/e1ca049a-36fc-454d-babf-3e3f8155d07f" />
 
-                        Conclusion                      
+# ⚒Conclusion                      
  In summary, the ”Event Planner” project provides a comprehensive solution for managing
  event categories, services, and bookings. The system allows users to sign up, log in, and
  book services, while administrators can manage categories, services, and view booking
